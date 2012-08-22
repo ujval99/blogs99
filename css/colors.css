@@ -1,0 +1,66 @@
+body,
+body.overlay
+{
+  color: #000;
+}
+#main-menu-links li a.active,
+#main-menu-links li.active-trail a
+{
+  background: #F9C222;
+  border-radius: 5px 0 0 5px;
+  color: #000;
+}
+#main-menu-links li a
+{
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  color: #fff;
+}
+.tabs ul.primary li a.active
+{
+  background-color: #ffffff;
+}
+.tabs ul.primary li.active a
+{
+  background-color: #ffffff;
+  border-bottom: 1px solid #ffffff;
+}
+a,a:hover,
+a:focus,
+a:active
+{
+  color: #181818;
+  text-decoration: none;
+}
+#sidebar-first a,
+#sidebar-first a:hover,
+#sidebar-first a:focus,
+#sidebar-first a:active
+{
+  color: #fff;
+  text-decoration: none;
+}
+#page-wrapper
+{
+  background: #F9C222;
+}
+.region-header,
+.region-header a,
+.region-header li a.active,
+#name-and-slogan,
+#name-and-slogan a,
+#secondary-menu-links li a
+{
+  color: #fffeff;
+}
+#sidebar-first
+{
+  color: #fff;
+}
+#sidebar-first ul.menu li
+{
+  color: #F9C222;
+}
+#sidebar-first .item-list ul li
+{
+  color: #F9C222;
+}

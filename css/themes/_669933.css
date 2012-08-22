@@ -1,0 +1,77 @@
+html fieldset legend a
+{
+  color: #669933;
+}
+html fieldset legend a:hover,
+html fieldset legend a:focus,
+html fieldset legend a:active
+{
+  color: #669933;
+}
+html .filter-wrapper .form-select
+{
+  background: none repeat scroll 0 0 #669933;
+  min-width: 120px;
+}
+html #block-block-1 h2
+{
+  color: #669933;
+  margin: 0;
+  padding: 0;
+}
+html .filter-wrapper .form-select
+{
+  background: none repeat scroll 0 0 #669933;
+  min-width: 120px;
+}
+html fieldset .fieldset-wrapper .form-select,fieldset .fieldset-wrapper input.form-text,html fieldset .fieldset-wrapper textarea.form-textarea,html fieldset .fieldset-wrapper select.form-select
+{
+  background: none repeat scroll 0 0 #669933;
+}
+html #overlay-content
+{
+  background: none repeat scroll 0 0 #669933;
+}
+html #main-menu-links li a.active,
+html #main-menu-links li.active-trail a
+{
+  background: #669933;
+  border-radius: 5px 0 0 5px;
+  color: #000;
+}
+html #page-wrapper
+{
+  background: #669933;
+}
+html #sidebar-first ul.menu li
+{
+  color: #669933;
+}
+html #sidebar-first .item-list ul li
+{
+  color: #669933;
+}
+html #page-wrapper
+{
+  background: #669933;
+}
+html #main-menu-links li a.active,html #main-menu-links li.active-trail a
+{
+  background: none repeat scroll 0 0 #669933;
+}
+html .sidebar h2
+{
+  color: #669933;
+}
+html fieldset .fieldset-wrapper .form-select,html fieldset .fieldset-wrapper input.form-text,html fieldset .fieldset-wrapper textarea.form-textarea,html fieldset .fieldset-wrapper select.form-select
+{
+  background: none repeat scroll 0 0 #669933;
+}
+html .page-fix-0
+{
+  color: #669933;
+}
+html #site-slogan
+{
+  color: #669933;
+}

@@ -1,0 +1,36 @@
+name = Blogs99
+description = A two column, recolorable, table less, fluid width simple blog theme.
+package = Core
+version = VERSION
+core = 7.x
+
+stylesheets[all][] = css/layout.css
+stylesheets[all][] = css/style.css
+stylesheets[all][] = css/colors.css
+stylesheets[print][] = css/print.css
+
+regions[header] = Header
+regions[help] = Help
+regions[highlighted] = Highlighted
+
+
+regions[content] = Content
+regions[sidebar_first] = Sidebar first
+
+settings[shortcut_module_link] = 0
+
+
+; Information added by drupal.org packaging script on 2012-02-01
+version = "7.12"
+project = "blogs99"
+datestamp = "1328134560"
+
+settings[about_display]  = 1
+settings[about_title]    = "About Author"
+settings[about_text]     = "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+settings[footer_show]    = 1
+settings[footer_text]    = "Opensource © 2012"
+settings[display]        = 1
+settings[twitter]        = "https://twitter.com"
+settings[facebook]       = "http://www.facebook.com"
+settings[linkedin]       = "http://in.linkedin.com"
